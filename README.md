@@ -9,7 +9,7 @@ This repository contains an Excel-based **Discounted Cash Flow (DCF) Valuation M
 ## 📝 How to Use
 
 1. **Download the spreadsheet**:  
-   `Investment Analysis DCF Model.xlsx`
+   `Investment Stock Analysis DCF Model.xlsx`
 
 2. **Open the file in Microsoft Excel** (or compatible software with macro and formatting support).
 
